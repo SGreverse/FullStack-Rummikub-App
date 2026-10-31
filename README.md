@@ -1,3 +1,3 @@
-Full-stack multi-user and multi-platform Rummikub server-client game using WPF and WCF. 
+This was my final project for 12th grade in Systems Architecture and Programming in 2025.
 
-Features async requests for profanity detection,Friend System, ranking system, Microsoft Access DB, encryption, and robust prevention against SQL injections and MITM.
+This cross-platform, full-stack Rummikub server-client game is developed in C# and .NET, utilizing WPF for the frontend and WCF for network communications. The multiplayer ecosystem supports concurrent gameplay, a competitive ranking system, a friend network,a fully secured chatting system, and asynchronous ML.NET requests for real-time profanity filtering. The Microsoft Access database architecture is strictly validated against SQL injection and hashes sensitive information to make the DB more secure, while the communication layer employs an RSA encryption to prevent Man-in-the-Middle (MITM) attacks and packet sniffing.
